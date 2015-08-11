@@ -26,3 +26,6 @@ assign(React, ReactDOMServer);
 React.version = '0.14.0-beta3';
 
 module.exports = React;
+
+
+var doodle = {}
