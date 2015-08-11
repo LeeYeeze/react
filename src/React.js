@@ -32,3 +32,5 @@ var doodle = {}
 
 
 var thereby = []
+
+var hs = {}
